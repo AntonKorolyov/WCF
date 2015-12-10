@@ -1,0 +1,6 @@
+c:\users\anton\documents\visual studio 2013\Projects\WcfServicePersons\WcfServicePersons\bin\WcfServicePersons.dll.config
+c:\users\anton\documents\visual studio 2013\Projects\WcfServicePersons\WcfServicePersons\bin\WcfServicePersons.dll
+c:\users\anton\documents\visual studio 2013\Projects\WcfServicePersons\WcfServicePersons\bin\WcfServicePersons.pdb
+c:\users\anton\documents\visual studio 2013\Projects\WcfServicePersons\WcfServicePersons\obj\Debug\WcfServicePersons.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2013\Projects\WcfServicePersons\WcfServicePersons\obj\Debug\WcfServicePersons.dll
+c:\users\anton\documents\visual studio 2013\Projects\WcfServicePersons\WcfServicePersons\obj\Debug\WcfServicePersons.pdb

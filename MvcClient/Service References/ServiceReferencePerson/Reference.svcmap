@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0a8eec28-c514-44f2-b901-43d1cdb40c6c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:62167/ServicePerson.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicePerson.disco" MetadataType="Disco" ID="6e32d71a-8efe-42bd-884b-47ce648c2128" SourceId="1" SourceUrl="http://localhost:62167/ServicePerson.svc?disco" />
+    <MetadataFile FileName="ServicePerson.wsdl" MetadataType="Wsdl" ID="d93df356-6228-4578-8b91-cd751184f450" SourceId="1" SourceUrl="http://localhost:62167/ServicePerson.svc?wsdl" />
+    <MetadataFile FileName="ServicePerson.xsd" MetadataType="Schema" ID="27b3ba42-3ccb-4839-b0ce-9a267af6a5ae" SourceId="1" SourceUrl="http://localhost:62167/ServicePerson.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServicePerson1.xsd" MetadataType="Schema" ID="42101fbf-0ed3-4fc6-90d8-79d932a78f55" SourceId="1" SourceUrl="http://localhost:62167/ServicePerson.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServicePerson2.xsd" MetadataType="Schema" ID="033b86c6-f8ba-4c75-9555-371ca7fc777c" SourceId="1" SourceUrl="http://localhost:62167/ServicePerson.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
